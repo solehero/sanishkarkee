@@ -25,7 +25,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
       
 </p>
 
-<table>
+<table border="none">
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" width="100%" />
