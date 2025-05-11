@@ -37,33 +37,25 @@ Currently mastering the art of staring at the screen until inspiration hits.
 ## 📈 My Stats
 
 <div align="center">
-    <!-- Contribution Heatmap with Snake Animation -->
-    <img src="https://github.com/sanishkarkee/sanishkarkee/blob/output/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
-    <img src="https://github.com/sanishkarkee/sanishkarkee/blob/output/github-snake.svg?color_snake=#00FC58#gh-light-mode-only" alt="Snake animation">
-    <!-- Github Activity Graph -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanishkarkee&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanishkarkee&theme=github-light&point=00000000&radius=16#gh-light-mode-only" alt="GitHub Activity Graph">
-    </a>
-    <!-- Github Streak Stats -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=sanishkarkee&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=sanishkarkee&border_radius=20&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak">
-    </a>
-    <!-- LeetCode Stats -->
-    <a href="https://leetcode.com/sanishkarkee#gh-dark-mode-only">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
-    </a>
-    <a href="https://leetcode.com/sanishkarkee#gh-light-mode-only">
-        <img src="https://leetcard.jacoblin.cool/cheehwatang?border=1&radius=20&theme=light#gh-light-mode-only" alt="Leetcode Stats">
-    </a>
-    <!-- Github Contribution 3D Profile -->
-    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" width="700" alt="3D Contribution Profile">
-    <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="700" alt="3D Contribution Profile">
+    - uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 </div>
 
 </br>
