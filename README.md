@@ -5,8 +5,12 @@
         <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border: none;" />
       </td>
       <td width="80%" style="border: none;">
-        
+
+        <div>
+
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+</div>
+
       
       </td>
     </tr>
