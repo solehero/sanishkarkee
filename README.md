@@ -44,7 +44,34 @@ Currently mastering the art of staring at the screen until inspiration hits.
   <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&layout=compact" height="200"/>
 </div>
-
 <br><br>
+# 🚀 Some Tools I Have Used and Learned
+<p align="left">
+<!-- HTML5 -->
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="45" alt="HTML5" />&nbsp;&nbsp;
+<!-- CSS3 -->
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="45" alt="CSS3" />&nbsp;&nbsp;
+<!-- SCSS -->
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="45" alt="SCSS" style="filter: hue-rotate(300deg);" />&nbsp;&nbsp;
+<!-- JavaScript -->
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="45" alt="JavaScript" />&nbsp;&nbsp;
+<!-- React -->
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="45" alt="React" />&nbsp;&nbsp;
+<!-- Redux -->
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="45" alt="Redux" />&nbsp;&nbsp;
+<!-- Tailwind -->
+<img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="45" alt="Tailwind" />&nbsp;&nbsp;
+<!-- Figma -->
+<img src="https://media.giphy.com/media/kapQAQwp3pMZw/giphy.gif" width="45" alt="Figma" />&nbsp;&nbsp;
+<!-- Docker -->
+<img src="https://media.giphy.com/media/YU5h6SJMcNe5vjRZzU/giphy.gif" width="45" alt="Docker" />&nbsp;&nbsp;
+<!-- GitHub -->
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="45" alt="GitHub" />&nbsp;&nbsp;
+<!-- Trello -->
+<img src="https://media.giphy.com/media/3o7TKsrf4eB4bZ4gxi/giphy.gif" width="45" alt="Trello" />&nbsp;&nbsp;
+<!-- Jira -->
+<img src="https://media.giphy.com/media/j3jdN4wbvxj48/giphy.gif" width="45" alt="Jira" />
+</p>
+<br>
 
 
