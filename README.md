@@ -5,7 +5,9 @@
         <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border: none;" />
       </td>
       <td width="80%" style="border: none;">
+        
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+      
       </td>
     </tr>
   </table>
