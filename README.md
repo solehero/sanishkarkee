@@ -36,7 +36,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-256.png" alt="=Github" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Trello-256.png" alt="Trello" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;     
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;     
 </p>
 
 <h2> 📈 My Github History!</h2>
