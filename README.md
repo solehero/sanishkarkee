@@ -1,22 +1,4 @@
 <div align="center">
-  <table style="border: none !important; border-collapse: collapse; border-spacing: 0; padding: 0; margin: 0;">
-    <tr style="border: none !important; padding: 0; margin: 0;">
-      <td width="20%" style="border: none !important; padding: 0; margin: 0;">
-        <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border: none !important; display: block; padding: 0; margin: 0;" />
-      </td>
-      <td width="80%" style="border: none !important; padding: 0; margin: 0;">
-        <div style="padding: 0; margin: 0;">
-         <div>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
-</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<div align="center">
   <table>
     <tr>
       <td width="20%">
