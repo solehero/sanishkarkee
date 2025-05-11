@@ -6,8 +6,10 @@
       </td>
       <td width="80%" style="border: none !important; padding: 0; margin: 0;">
         <div style="padding: 0; margin: 0;">
-          [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
-        </div>
+         <div>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
+</div>
       </td>
     </tr>
   </table>
