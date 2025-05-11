@@ -1,7 +1,13 @@
-<div>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 30%;">
+    <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" alt="Sheep GIF" width="100%">
+  </div>
+  <div style="width: 70%;">
+    [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
+  </div>
 </div>
+
+
 
 
 # 💫 About Me:
