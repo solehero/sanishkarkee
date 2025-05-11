@@ -39,6 +39,12 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;     
 </p>
 <br>
+<h2 align="left">📈 My Github History!</h2>
+
+<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&layout=compact" height="200"/>
+</div>
 <h2> 📈 My Github History!</h2>
 <p align="left">
 <div style="display: flex; justify-content: flex-start; align-items: center; ">
@@ -48,9 +54,4 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <p/>
 <br><br>
 
-<h2 align="left">📈 My Github History!</h2>
 
-<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&layout=compact" height="200"/>
-</div>
