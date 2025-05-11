@@ -39,7 +39,6 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;     
 </p>
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2> 📈 My Github History!</h2>
 <p align="left">
 <div style="display: flex; justify-content: flex-start; align-items: center; ">
