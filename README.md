@@ -1,11 +1,11 @@
 <div style="display: flex; align-items: center;">
   <!-- GIF Section -->
-  <div style="flex: 0 0 30%;">
+  <div style="width: 30%;">
     <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" alt="Sheep GIF" style="width: 100%; height: auto;" />
   </div>
 
   <!-- Widget Section -->
-  <div style="flex: 0 0 70%;">
+  <div style="width: 70%;">
     <a href="https://github.com/sanishkarkee">
       <img src="https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis" alt="GitHub Widget" style="width: 100%; height: auto;" />
     </a>
