@@ -34,7 +34,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <img src="https://cdn.dribbble.com/userupload/42461346/file/original-fb89310f46ff03f173c67db026ba6af5.gif" alt="figma" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" alt="Docker" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="=Github" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Trello-256.png" alt="Trello" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://cdn.dribbble.com/userupload/22875446/file/original-35143c2f1d1793354e98efdb7ac79f1a.gif" alt="Trello" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;     
 </p>
 <br>
