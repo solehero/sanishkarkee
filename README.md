@@ -45,5 +45,5 @@ Currently mastering the art of staring at the screen until inspiration hits.
 </div>
 <br><br>
 
-![Snake animation](https://github.com/sanishkarkee/sanishkarkee/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/sanishkarkee/sanishkarkee/blob/output/github-contribution-grid-snake.svg)
 
