@@ -38,7 +38,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Trello-256.png" alt="Trello" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;     
 </p>
-
+<br><br>
 <h2> 📈 My Github History!</h2>
 <p align="left">
 <div style="display: flex; justify-content: flex-start; align-items: center; ">
