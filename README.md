@@ -13,7 +13,7 @@
     </tr>
   </table>
 </div>
-<br> <br>
+
 # 💫 About Me:
 Currently mastering the art of staring at the screen until inspiration hits. 
 <br> <br>
