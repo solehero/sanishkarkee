@@ -44,5 +44,5 @@ Currently mastering the art of staring at the screen until inspiration hits.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight" height="200"/>
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sanishkarkee/sanishkarkee/blob/output/github-contribution-grid-snake.svg)
 <br><br>
