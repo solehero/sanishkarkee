@@ -26,8 +26,15 @@ Currently mastering the art of staring at the screen until inspiration hits.
 </p>
 
 
+![Sanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight)
+
+
+
 ![Sanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true,&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee)](https://github.com/sanishkarkee/github-readme-stats,,&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee)](https://github.com/sanishkarkee/github-readme-stats)
 
 
 
