@@ -15,7 +15,7 @@
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" />  About Me:
+# <img src="https://cdn-icons-gif.flaticon.com/16678/16678437.gif" width="20" height="20" />  About Me:
 Currently mastering the art of staring at the screen until inspiration hits. 
 <br><br>
 
