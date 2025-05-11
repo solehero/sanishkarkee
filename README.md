@@ -40,7 +40,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
 </p>
 <br>
 <h2 align="left">📈 My Github History!</h2>
-<div align="center" style="display: flex; gap: 100px; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; gap: 100px; flex-wrap: wrap; justify-content: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&layout=compact" height="200"/>
 </div>
