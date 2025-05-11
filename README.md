@@ -2,12 +2,10 @@
   <table>
     <tr>
       <td width="30%">
-        <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border-radius: 8px;" />
+        <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border: none;" />
       </td>
-      <td width="70%">
-        <div>
-          [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
-        </div>
+      <td width="70%" style="border: none;">
+        [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
       </td>
     </tr>
   </table>
