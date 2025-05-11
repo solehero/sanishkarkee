@@ -30,9 +30,6 @@ Currently mastering the art of staring at the screen until inspiration hits.
 
 
 
-
-
-
-[![](https://visitcount.itsvg.in/api?id=sanishkarkee&icon=2&color=10)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
