@@ -29,7 +29,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
 ![Sanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true,&theme=tokyonight)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
