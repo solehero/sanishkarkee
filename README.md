@@ -30,7 +30,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SCSS" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"  alt="React" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="reduxToolkit" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="https://camo.githubusercontent.com/2b1a917053c2f8cee1fa3ee932d0fb87f4911cfad49de340a5238e9c6a0ab8a5/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="reduxToolkit" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
