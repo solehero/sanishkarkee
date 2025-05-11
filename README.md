@@ -15,7 +15,7 @@
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-# 😎 About Me
+# 🥷🏼 About Me
 Currently mastering the art of staring at the screen until inspiration hits. 
 <br><br>
 
