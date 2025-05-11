@@ -1,5 +1,5 @@
-<div align="center">
-  <table>
+<div align="center" style="border: none;">
+  <table style="border: none;">
     <tr>
       <td width="30%">
         <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border: none;" />
