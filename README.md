@@ -47,3 +47,5 @@ Currently mastering the art of staring at the screen until inspiration hits.
 
 ![Snake](https://github.com/sanishkarkee/sanishkarkee/blob/output/github-contribution-grid-snake.svg)
 
+![Snake](https://github.com/sanishkarkee/sanishkarkee/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+
