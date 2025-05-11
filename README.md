@@ -13,15 +13,7 @@
     </tr>
   </table>
 </div>
-
-**About Me:**
-
-Currently mastering the art of staring at the screen until inspiration hits.
-
-Hey let's get connected!
-
-**Some Tools I Have Used and Learned**
-
+<br> <br>
 # 💫 About Me:
 Currently mastering the art of staring at the screen until inspiration hits. 
 <br> <br>
