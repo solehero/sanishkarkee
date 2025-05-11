@@ -1,9 +1,6 @@
 # 💫 About Me:
 Currently mastering the art of staring at the screen until inspiration hits. 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 
 ## 🌐 Socials:
