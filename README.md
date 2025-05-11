@@ -26,7 +26,8 @@ Currently mastering the art of staring at the screen until inspiration hits.
 </p>
 
 
-[![Sanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanishkarkee)](https://github.com/sanishkarkee/github-readme-stats)
+
 
 
 # 📊 GitHub Stats:
