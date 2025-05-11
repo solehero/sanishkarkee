@@ -1,3 +1,18 @@
+<div style="position: relative; width: 100%; height: 300px; overflow: hidden;">
+  <!-- Full-width confetti background -->
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" 
+       alt="Confetti Background" 
+       style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; z-index: 0;" />
+
+  <!-- Centered coding GIF -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
+       alt="Coding Gif" 
+       style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 120px; z-index: 1;" />
+</div>
+
+
+
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
