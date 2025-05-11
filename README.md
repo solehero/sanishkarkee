@@ -52,5 +52,5 @@ Currently mastering the art of staring at the screen until inspiration hits.
 
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&layout=donut" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&layout=donut-vertical" height="200"/>
 </div>
