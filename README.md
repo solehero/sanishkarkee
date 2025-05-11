@@ -25,16 +25,16 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <br><br>
 # 🚀 Some Tools I Have Used and Learned
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="html5" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="css3" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="html5" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;    
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SCSS" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  alt="React" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="javascript" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"  alt="React" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="reduxToolkit" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-256.png" alt="=Github" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="=Github" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/Trello-256.png" alt="Trello" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;     
 </p>
