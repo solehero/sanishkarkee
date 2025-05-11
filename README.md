@@ -48,9 +48,9 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <p/>
 <br><br>
 
-<h2 align="center">📈 My Github History!</h2>
+<h2 align="left">📈 My Github History!</h2>
 
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&hide_border=true&layout=compact" height="200" alt="Top Languages"/>
+<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&layout=compact" height="200" alt="Top Languages"/>
 </div>
