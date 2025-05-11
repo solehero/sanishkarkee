@@ -1,11 +1,6 @@
 <div>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/sanishkarkee/github-widgetbox)  
-</div>
-
-
-<div>
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/sanishkarkee)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/sanishkarkee)
 </div>
 
 
