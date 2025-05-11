@@ -1,6 +1,6 @@
 <div>
   
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=mountain)](https://github.com/sanishkarkee)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=rgb)](https://github.com/sanishkarkee)
 </div>
 
 
