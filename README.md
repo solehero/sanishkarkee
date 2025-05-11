@@ -4,8 +4,6 @@
 </div>
 
 
-![Snake animation](https://github.com/sanishkarkee/github-readme/blob/output/github-contribution-snake.svg)
-
 # 💫 About Me:
 Currently mastering the art of staring at the screen until inspiration hits. 
 <br> <br>
