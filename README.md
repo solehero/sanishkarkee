@@ -43,7 +43,6 @@ Currently mastering the art of staring at the screen until inspiration hits.
   <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight" height="200"/>
 </div>
-
+<br><br>
 ![Snake animation](https://github.com/sanishkarkee/yourusername/blob/output/github-contribution-grid-snake.svg)
 
-<br><br>
