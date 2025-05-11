@@ -3,7 +3,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
 </div>
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 # 💫 About Me:
 Currently mastering the art of staring at the screen until inspiration hits. 
