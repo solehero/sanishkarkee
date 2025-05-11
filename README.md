@@ -5,22 +5,6 @@
         <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border: none;" />
       </td>
       <td width="80%" style="border: none;">
-<div>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
-</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="20%">
-        <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border: none;" />
-      </td>
-      <td width="80%" style="border: none;">
 # 💫 About Me:
 Currently mastering the art of staring at the screen until inspiration hits. 
       </td>
