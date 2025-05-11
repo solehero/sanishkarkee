@@ -1,19 +1,25 @@
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="20%" style=" border: none;">
-        <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="display: block; margin: 0; padding: 0; border: none;" />
+  <table>
+    <tr>
+      <td width="20%">
+        <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="border: none;" />
       </td>
-      <td width="80%" style=" border: none;">
-       
-<div>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
-</div>
+      <td width="80%" style="border: none;">
+       <div>
+             [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
+       </div>
       </td>
     </tr>
   </table>
 </div>
+
+**About Me:**
+
+Currently mastering the art of staring at the screen until inspiration hits.
+
+Hey let's get connected!
+
+**Some Tools I Have Used and Learned**
 
 # 💫 About Me:
 Currently mastering the art of staring at the screen until inspiration hits. 
