@@ -48,38 +48,9 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <p/>
 <br><br>
 
-# My Github History!
+<h2 align="center">📈 My Github History!</h2>
 
-## Sanish Karki's GitHub Stats
-
-<div style="display: flex; gap: 20px; width: 100%;">
-  <!-- Left Stats Section -->
-  <div style="flex: 1;">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanishkarka64&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&line_height=24)
-    
-    - **Total Stars Earned:** ![Stars](https://img.shields.io/badge/stars-0-blue)
-    - **Total Commits (2025):** ![Commits](https://img.shields.io/badge/commits-119-green)
-    - **Total PRs:** ![PRs](https://img.shields.io/badge/PRs-44-orange)
-    - **Total Issues:** ![Issues](https://img.shields.io/badge/issues-8-red)
-    - **Contributed to (last year):** ![Contributions](https://img.shields.io/badge/contributions-6-purple)
-  </div>
-
-  <!-- Right Languages Section -->
-  <div style="flex: 1;">
-    ### Most Used Languages
-    
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarka64&layout=compact&hide_title=true&hide_border=true&langs_count=6)
-    
-    <div style="display: flex; justify-content: space-between; margin-top: 10px;">
-      <span>CSS</span>
-      <span>HTML</span>
-      <span>JavaScript</span>
-      <span>SCSS</span>
-    </div>
-  </div>
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&hide_border=true&layout=compact" height="200" alt="Top Languages"/>
 </div>
-
-
-
-
-
