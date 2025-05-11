@@ -45,4 +45,4 @@ Currently mastering the art of staring at the screen until inspiration hits.
 </div>
 <br><br>
 
-![Snake](https://github.com/sanishkarkee/sanishkarkee/blob/output/github-contribution-grid-snake.svg?palette=solarized&size=20)
+![Snake](https://github.com/sanishkarkee/sanishkarkee/blob/output/github-contribution-grid-snake.svg?palette=solarized&size=20?speed=0.5)
