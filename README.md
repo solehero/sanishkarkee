@@ -14,10 +14,6 @@ Currently mastering the art of staring at the screen until inspiration hits.
 
 ---
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 [![](https://visitcount.itsvg.in/api?id=sanishkarkee&icon=2&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
