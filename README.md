@@ -53,9 +53,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
   <!-- Left Stats Section -->
   <div style="flex: 1; min-width: 0;">
     ## Sanish Karki's GitHub Stats
-    
     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&line_height=24)
-    
     - **Total Stars Earned:** ![Stars](https://img.shields.io/badge/stars-0-blue)
     - **Total Commits (2025):** ![Commits](https://img.shields.io/badge/commits-119-green)
     - **Total PRs:** ![PRs](https://img.shields.io/badge/PRs-44-orange)
@@ -66,9 +64,7 @@ Currently mastering the art of staring at the screen until inspiration hits.
   <!-- Right Languages Section -->
   <div style="flex: 1; min-width: 0;">
     ### Most Used Languages
-    
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&layout=compact&hide_title=true&hide_border=true&langs_count=6)
-    
     <div style="display: flex; justify-content: space-between; margin-top: 10px;">
       <span>CSS</span>
       <span>HTML</span>
