@@ -1,11 +1,15 @@
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <td width="30%" style="padding: 0; margin: 0; border: none;">
+      <td width="20%" style="padding: 0; margin: 0; border: none;">
         <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="display: block; margin: 0; padding: 0; border: none;" />
       </td>
-      <td width="70%" style="padding: 0; margin: 0; border: none;">
-        [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
+      <td width="80%" style="padding: 0; margin: 0; border: none;">
+       
+<div>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanishkarkee&data=followers,repositories,stars,commits&theme=metropolis)](https://github.com/sanishkarkee)
+</div>
       </td>
     </tr>
   </table>
