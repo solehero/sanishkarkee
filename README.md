@@ -45,16 +45,5 @@ Currently mastering the art of staring at the screen until inspiration hits.
 </div>
 <br><br>
 
-![Snake animation](https://github.com/sanishkarkee/yourusername/blob/output/github-contribution-grid-snake.svg)
-
-- uses: Platane/snk@v3
-  with:
-  
-    github_user_name: ${{ sanishkarkee }}
-
-    
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+![Snake animation](https://github.com/sanishkarkee/sanishkarkee/blob/output/github-contribution-grid-snake.svg)
 
