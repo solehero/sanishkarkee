@@ -42,28 +42,6 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <h2 align="left">📈 My Github History!</h2>
 <div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=sanishkarkee&show_icons=true&theme=tokyonight" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanishkarkee&theme=tokyonight" height="200"/>
 </div>
 <br><br>
-
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.2); }
-    100% { transform: scale(1); }
-  }
-  @keyframes spin {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
-  @keyframes grow {
-    from { transform: scale(1); }
-    to { transform: scale(1.3); }
-  }
-</style>
-
-
