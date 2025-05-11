@@ -1,10 +1,10 @@
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <td width="20%" style="padding: 0; margin: 0; border: none;">
+      <td width="20%" style=" border: none;">
         <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="100%" style="display: block; margin: 0; padding: 0; border: none;" />
       </td>
-      <td width="80%" style="padding: 0; margin: 0; border: none;">
+      <td width="80%" style=" border: none;">
        
 <div>
 
