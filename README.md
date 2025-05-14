@@ -1,4 +1,15 @@
 <div align="center">
+  <!-- Graffiti divider above the image -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <!-- Your centered image -->
+  <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="300" height="200" style="border: none;" />
+  
+  <!-- Graffiti divider below the image -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
   <img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="300" height="200" style="border: none;" />
 </div>
 
