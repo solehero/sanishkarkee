@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="40%" height="400" style="border: none;" />
+<img src="https://i.giphy.com/3NjABnBOieYQE4BpkP.webp" width="300" height="200" style="border: none;" />
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
