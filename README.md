@@ -8,7 +8,7 @@
 Currently mastering the art of staring at the screen until inspiration hits. 
 <br><br>
 
-# 🫵🏼🫰🏼 Hey lets get connected
+# 🫵🏼🫰🏼 Hey you! let's get connected
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanish-karki-680249148) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s.karki1994@gmail.com) 
 <br><br>
 # 🛠️ Some Tools I Have Used and Learned
