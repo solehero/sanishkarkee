@@ -22,7 +22,6 @@ Currently mastering the art of staring at the screen until inspiration hits.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg"alt="react-router" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  alt="Tailwind" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"  alt="Docker" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/github--v1.png" alt="=Github" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" width="45" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;     
